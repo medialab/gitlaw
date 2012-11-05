@@ -1,0 +1,28 @@
+Références absolues : 
+article integer
+alinéa integer
+les X alinés suivants
+
+Références relatives : 
+la référence :""
+à la deuxième occurrence du mot
+aux,les mots : ""
+Après
+à 
+à la fin de 
+la première phrase
+au début de
+
+Variables : 
+: "  "
+
+Actions :
+supprimer les REF
+modifier ?
+substituer à REF VAR
+compléter REF par VAR
+rédiger ainsi REF : VAR
+rétablir ?
+
+
+
